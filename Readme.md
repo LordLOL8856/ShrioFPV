@@ -4,7 +4,7 @@ Welcome to the official documentation for the **ShroFPV F405 BLS Flight Controll
 
 This repository includes a full website with detailed documentation. You can view the live documentation here:
 
-[https://shirofpv.github.io]([https://shirofpv.github.io](https://shirofpv.github.io/ShiroFPV-Flight-Controller/index.html))
+[https://shirofpv.github.io]([https://shirofpv.github.io](https://shirofpv.github.io/ShiroFPV-Flight-Controller/index.html)
 
 The documentation covers:
 * **Hardware Specifications:** A full breakdown of components and board layout.
@@ -17,7 +17,7 @@ To get started with our flight controller, you can either flash a pre-compiled f
 
 ### Flashing Pre-compiled Firmware
 
-1.  Download the latest firmware `.hex` file from the [Releases page]([https://github.com/shirofpv/shirofpv.github.io/releases](https://shirofpv.github.io/ShiroFPV-Flight-Controller/html-files/software.html)).
+1.  Download the latest firmware `.hex` file from the [Releases page]([https://github.com/shirofpv/shirofpv.github.io/releases](https://shirofpv.github.io/ShiroFPV-Flight-Controller/html-files/software.html).
 2.  Connect your FC to your computer via USB.
 3.  Open the [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator/releases) and navigate to the **Firmware Flasher** tab.
 4.  Select the correct board target: `[Your Board Target Name]`
@@ -26,7 +26,7 @@ To get started with our flight controller, you can either flash a pre-compiled f
 
 ### Building from Source
 
-If you want to modify the firmware or build it yourself, follow the instructions in our [Software Documentation]([https://shirofpv.github.io#software](https://shirofpv.github.io/ShiroFPV-Flight-Controller/html-files/software.html)).
+If you want to modify the firmware or build it yourself, follow the instructions in our [Software Documentation]([https://shirofpv.github.io#software](https://shirofpv.github.io/ShiroFPV-Flight-Controller/html-files/software.html).
 
 ---
 
