@@ -32,5 +32,5 @@ If you want to modify the firmware or build it yourself, follow the instructions
 
 ## 🗺️ Roadmap
 
-* **At fist the Stuff mentioned above will be Progressivly uploaded.
-* **The goals for This projet are to have a full FC and ESC Stack wich might get sold at some point.
+* At fist the Stuff mentioned above will be Progressivly uploaded.
+* The goals for This projet are to have a full FC and ESC Stack wich might get sold at some point.
