@@ -1,4 +1,4 @@
-Welcome to the official documentation for the **ShroFPV F405 BLS Flight Controller**. This repository hosts the complete hardware and software documentation.
+Welcome to the official documentation for the **ShroFPV F405 Flight Controller**. This repository hosts the complete hardware and software documentation.
 
 ## 📖 Documentation
 
